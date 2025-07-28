@@ -1,13 +1,13 @@
 # E-Kart Customer Retention Strategy Report
 
-This project dives deep into customer behavior at E-Kart — a fast-growing e-commerce platform — to uncover churn patterns, high-value segments, and actionable retention strategies using SQL, Tableau, and advanced data analysis.
+This project dives deep into customer behavior at E-Kart — a fast-growing e-commerce platform to uncover churn patterns, high-value segments, and actionable retention strategies using SQL, Tableau, and advanced data analysis.
  >**Note:** This project was completed as part of my undergraduate coursework in Data Science & Economics at FLAME University.  
 > The dataset was provided by faculty as part of a structured academic exercise designed to simulate real-world business scenarios.
 ---
 
 ## Project Objective
 
-Despite rapid user acquisition, E-Kart faced high churn — with over 53% of customers inactive for more than 56 days. This project identifies:
+Despite rapid user acquisition, E-Kart faced high churn with over 53% of customers inactive for more than 56 days. This project identifies:
 
 - Customer behavior and churn patterns
 - Revenue-driving segments
