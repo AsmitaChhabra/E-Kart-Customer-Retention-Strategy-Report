@@ -1,6 +1,6 @@
 # E-Kart Customer Retention Strategy Report
 <p align="center">
-  <img src="ChatGPT Image Jul 28, 2025 at 01_03_08 PM.png" width="600"/>
+  <img src="preview.png" width="600"/>
 </p>
 
 This project dives deep into customer behavior at E-Kart — a fast-growing e-commerce platform to uncover churn patterns, high-value segments, and actionable retention strategies using SQL, Tableau, and advanced data analysis.
